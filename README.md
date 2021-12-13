@@ -1,7 +1,7 @@
 <!DOCTYPE html> 
 <html lang="pt-br">
 <head>
-    <title>Currículo Virtual - Diego Rodrigue Alves</title>
+    
     <meta charset="UTF-8">
         <link rel="stylesheet" href="Diego.css">
     
