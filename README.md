@@ -1,17 +1,12 @@
 <!DOCTYPE html> 
 <html lang="pt-br">
 <head>
-    
-    <meta charset="UTF-8">
-        <link rel="stylesheet" href="Diego.css">
-    
 </head>
 <body>
-   <header class="titulo">Meu currículo virtual </header>
-    <table>
+  <table>
    <td> 
-       <img src="C:\Users\diego_il9lzwp\OneDrive\Documentos\GitHub\Site Currículo\Imagens\Diego.Jpg" 
-   class="imagem" width="100" rigth="100">
+       <img src="https://scontent.fcgh12-1.fna.fbcdn.net/v/t39.30808-6/265297464_10223318707710091_654191305879367020_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeFSBUEkBopDNZuDBFSvHz6Zkhhiij9ArpaSGGKKP0CulgHaKQ14wsOtDNYnsX9XYkE&_nc_ohc=NylY8llDfVkAX_jY024&_nc_ht=scontent.fcgh12-1.fna&oh=00_AT-d1e5Z7VZ2iPQfUzDTb0UuojOD0wDzSFf13e8R-l2JXg&oe=61BD2384" 
+   width="100" rigth="100">
 </td>
 <td>
     <div>Diego Rodrigues Alves</div> 
@@ -85,7 +80,7 @@ Empresa brasileira de educação e tecnologia.
 <section class="subtitulo">Contato e endereço </section>
 <div>Tel.: +55 11 99798-****</div>
 </div>(cel.) +55 11 2972-**** (res.)</div>
-<div> diego******t@gmail.com </div>
+<div> diegodeforst@gmail.com </div>
 <div>Av. Guapira, **** apt. ** bloco * – Tucuruvi  – São Paulo/SP – Zona Norte</div>
 
     
