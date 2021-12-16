@@ -79,10 +79,10 @@ Empresa brasileira de educação e tecnologia.
 <div>Gestão de pessoas e desempenho – Princípios do feedback (condução, aplicação, monitoramento), analisando perfil do consultor. </div></ul>
 
 <section class="subtitulo">Contato e endereço </section>
-<div>Tel.: +55 11 99798-****</div>
-</div>(cel.) +55 11 2972-**** (res.)</div>
+<div>Tel.: +55 11 99798-7241</div>
+</div>(cel.) +55 11 2972-4106 (res.)</div>
 <div> diegodeforst@gmail.com </div>
-<div>Av. Guapira, **** apt. ** bloco * – Tucuruvi  – São Paulo/SP – Zona Norte</div>
+<div>Av. Guapira, 1451 apt. 30 bloco B – Tucuruvi  – São Paulo/SP – Zona Norte</div>
 
     
 </body>
