@@ -60,15 +60,16 @@ Empresa brasileira de educação e tecnologia.
 <section class="subtitulo"> Cursos </section>
 
 <b><ul>Digital Innovation One (2021-2022)</ul></b>
-<ul><div>Construindo páginas para internet com Bootstrap</div>
-<div>Introdução a criação de websites com HTML5 e CSS3</div>
-<div>Boas-vindas ao Bootcamp Inter Frontend Developer</div>
-<div>Linux: Introdução ao Sistema Operacional e Terminal<div>
-<div>Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso</div>
-<div>Projetos ágeis com SCRUM</div>
-<div>Introdução ao Git e ao GitHub</div>
-<div>Aprenda o que são Estrutura de Dados e Algoritmos</div>
-<div>Lógica de Programação Essencial</div>
+<ul>
+ <div> JavaScript </div>
+ <div> Internet com Boostrap </div>
+  <div> HTML 5 </div>
+  <div> CSS 3 </div>
+  <div> Scrum </div>
+  <div> Git </div>
+  <div> GitHub </div>
+  <div> Lógica de programação essencial </div>
+  <div> Estrutura de dados e algoritimos </div>
 </ul>
 <b><ul>Web Designer (Microcamp 2006) - 6 meses</b></ul>
 <ul>HTML/CSS, CorelDRAW, Photoshop, Fireworks, Dremweaver, Lógica de programação, Java Script, Php/Mysql, ASP e Flash.</ul>
