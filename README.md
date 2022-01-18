@@ -61,15 +61,19 @@ Empresa brasileira de educação e tecnologia.
 
 <b><ul>Digital Innovation One (2021-2022)</ul></b>
 <ul>
+ <div> HTML 5 </div>
+ <div> CSS 3 </div>
+ <div> SQL </div>
  <div> JavaScript </div>
+ <div> NodeJS</div>
+ <div> ReactJS</div>
+ <div> Scrum </div>
+ <div> Git </div>
+ <div> GitHub </div>
+ <div> Lógica de programação</div>
+ <div> Estrutura de dados e algoritimos </div>
  <div> Internet com Boostrap </div>
-  <div> HTML 5 </div>
-  <div> CSS 3 </div>
-  <div> Scrum </div>
-  <div> Git </div>
-  <div> GitHub </div>
-  <div> Lógica de programação essencial </div>
-  <div> Estrutura de dados e algoritimos </div>
+ <div> React Hooks</div>
 </ul>
 <b><ul>Web Designer (Microcamp 2006) - 6 meses</b></ul>
 <ul>HTML/CSS, CorelDRAW, Photoshop, Fireworks, Dremweaver, Lógica de programação, Java Script, Php/Mysql, ASP e Flash.</ul>
