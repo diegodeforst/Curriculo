@@ -6,7 +6,7 @@
  <div align=center>
   <table>
    <td> 
-       <img src="https://scontent.fcgh12-1.fna.fbcdn.net/v/t39.30808-6/265297464_10223318707710091_654191305879367020_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeFSBUEkBopDNZuDBFSvHz6Zkhhiij9ArpaSGGKKP0CulgHaKQ14wsOtDNYnsX9XYkE&_nc_ohc=NylY8llDfVkAX_jY024&_nc_ht=scontent.fcgh12-1.fna&oh=00_AT-d1e5Z7VZ2iPQfUzDTb0UuojOD0wDzSFf13e8R-l2JXg&oe=61BD2384" 
+       <img src="https://avatars.githubusercontent.com/u/95883472?s=120&v=4" 
    width="100" rigth="100">
 </td>
 <td>
